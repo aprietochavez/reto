@@ -1,0 +1,1 @@
+INSERT INTO tbl_tipo_cambio (TIPO_CAMBIO) VALUES (4.00);
